@@ -2,6 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Diziler referans tiptir!!!
+
         //değişken tipinin hemen sağ tarafına [] koyulur.
         //atamanın sağ tarafına dizinin boyutu belirtilir.
         //indeksler 0'dan başlar.
